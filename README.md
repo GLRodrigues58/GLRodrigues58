@@ -26,10 +26,10 @@ Estudante de **Ciência de Dados** apaixonado por transformar grandes volumes de
 #### [🎬 Sistema de Recomendação de Filmes](https://github.com/GLRodrigues58/projeto-recomendacao-streaming)
 Processamento de milhões de avaliações utilizando técnicas de Big Data e One-Hot Encoding para recomendações personalizadas.
 
-#### [📊 Análise de Churn de Clientes Bancários](https://github.com/GLRodrigues58)
+#### [📊 Análise de Churn de Clientes Bancários](https://github.com/GLRodrigues58/analise-churn-clientes-bancarios)
 Identificação de padrões de cancelamento e criação de métricas de segmentação para retenção de clientes.
 
-#### [✉️ Automação de Relatórios em Python](https://github.com/GLRodrigues58)
+#### [✉️ Automação de Relatórios em Python](https://github.com/GLRodrigues58/automacao-relatorios-email)
 Desenvolvimento de pipelines automatizados para geração e envio de relatórios de vendas.
 
 ---
