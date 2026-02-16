@@ -37,8 +37,3 @@ Desenvolvimento de pipelines automatizados para geração e envio de relatórios
 ### 📫 Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/guilherme584rodrigues/](https://www.linkedin.com/in/guilherme584rodrigues/)
 - **E-mail:** grpds578@gmail.com
-
----
-
-![Resumo do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=GLRodrigues58&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GLRodrigues58&layout=compact&theme=radical)
